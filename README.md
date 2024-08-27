@@ -12,5 +12,4 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/91639335?s=400&u=e24551ded5149876bcece2390a19f4e3d87b1219&v=4" width=115><br><sub>Millena Oliveira</sub>](https://github.com/MillenaOliveiraSouza) |
-| :---: | :---: |
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/91639335?s=400&u=e24551ded5149876bcece2390a19f4e3d87b1219&v=4" width=115><br><sub>Millena Oliveira</sub>](https://github.com/MillenaOliveiraSouza) 
